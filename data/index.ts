@@ -96,11 +96,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Edusity",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/edusity.png",
+    title: "Bellord's Estate",
+    des: "Bellord's Estate is the best place to find your next perfect place to live. We have a wide range of properties for you to choose from.",
+    img: "/mern-bg.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://edusity-xmxh.onrender.com/",
+    link: "https://mern-estate-frontend-6cbm.onrender.com/",
   },
 ];
 
