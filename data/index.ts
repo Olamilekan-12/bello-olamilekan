@@ -49,7 +49,7 @@ export const gridItems = [
   {
     id: 5,
     title:
-      "Currently building one of the best restaurant listing and food ordering platform in Lagos, titled Order",
+      "Currently building an enterprise level restaurant POS software with MERN with complete inventory system and sales analytics",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -81,7 +81,7 @@ export const projects = [
   {
     id: 2,
     title: "Order",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    des: "Order is a MERN stack application replicating Glovo, enabling users to order food and groceries from local stores. It includes real-time order tracking, user authentication, and a rating system",
     img: "/order.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://order-5tg9.onrender.com/",
@@ -89,7 +89,7 @@ export const projects = [
   {
     id: 4,
     title: "Showcase",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    des: "Showcase is a MERN stack application replicating Fiverr, providing a platform for users to offer and hire services. It features user authentication, service listings, and a review system.",
     img: "/showcase.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://showcase-lft2.onrender.com/",
