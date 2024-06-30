@@ -78,30 +78,6 @@ export const projects = [
     iconLists: ["/liquid.png", "/tail.svg", "shop-pay.png", "gpay.png"],
     link: "https://www.barelyhuman.com/",
   },
-  {
-    id: 2,
-    title: "Order",
-    des: "Order is a MERN stack application replicating Glovo, enabling users to order food and groceries from local stores. It includes real-time order tracking, user authentication, and a rating system",
-    img: "/order.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://order-5tg9.onrender.com/",
-  },
-  {
-    id: 4,
-    title: "Showcase",
-    des: "Showcase is a MERN stack application replicating Fiverr, providing a platform for users to offer and hire services. It features user authentication, service listings, and a review system.",
-    img: "/showcase.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://showcase-lft2.onrender.com/",
-  },
-  {
-    id: 3,
-    title: "Bellord's Estate",
-    des: "Bellord's Estate is the best place to find your next perfect place to live. We have a wide range of properties for you to choose from.",
-    img: "/mern-bg.jpg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://mern-estate-frontend-6cbm.onrender.com/",
-  },
 ];
 
 export const testimonials = [
