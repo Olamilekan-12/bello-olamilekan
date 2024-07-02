@@ -41,7 +41,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Olamilekan, a MERN Developer based in Nigeria.
+            Hi! I&apos;m Olamilekan, a FullStack Developer based in Nigeria.
           </p>
           <div className=" flex flex-col md:flex-row items-center justify-center gap-4">
             <a href="#about">
