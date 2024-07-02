@@ -71,6 +71,22 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 2,
+    title: "CaseCobra",
+    des: "CaseCobra is a cutting-edge Next.js application that empowers users to personalize their phone cases with any image of their choice. The platform offers a seamless customization experience and integrates Stripe for secure and efficient payment processing, ensuring a smooth and user-friendly ordering process.",
+    img: "/casecobra.png",
+    iconLists: ["/next.svg", "/tail.svg", "shop-pay.png", "gpay.png"],
+    link: "https://casecobra-sigma-hazel.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "Food Ordering App",
+    des: "Food Ordering App is an innovative Next.js application that enables users to create their own virtual restaurants and order from others' eateries. This platform provides a unique, community-driven food ordering experience, featuring seamless Stripe payment integration for secure and convenient transactions.",
+    img: "/mern-food-ordering-app.png",
+    iconLists: ["/next.svg", "/tail.svg", "shop-pay.png", "gpay.png"],
+    link: "https://mern-food-ordering-app-frontend-trol.onrender.com",
+  },
+  {
     id: 1,
     title: "Barelyhuman",
     des: "BarelyHuman is a sleek and modern e-commerce platform designed to provide fitness enthusiasts with a seamless shopping experience for high-quality gym outfits. Built with Liquid and hosted on Shopify, this project showcases the integration of robust e-commerce functionalities with an eye-catching, user-friendly interface",
