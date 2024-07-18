@@ -71,6 +71,14 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 4,
+    title: "Carepulse",
+    des: "Healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms",
+    img: "/carepulse.png",
+    iconLists: ["/next.svg", "/tail.svg", "shop-pay.png", "gpay.png"],
+    link: "https://carepulse-rouge.vercel.app/",
+  },
+  {
     id: 2,
     title: "CaseCobra",
     des: "CaseCobra is a cutting-edge Next.js application that empowers users to personalize their phone cases with any image of their choice. The platform offers a seamless customization experience and integrates Stripe for secure and efficient payment processing, ensuring a smooth and user-friendly ordering process.",
