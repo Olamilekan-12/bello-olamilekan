@@ -72,27 +72,19 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Carepulse",
-    des: "Healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms",
-    img: "/carepulse.png",
-    iconLists: ["/next.svg", "/tail.svg", "shop-pay.png", "gpay.png"],
-    link: "https://carepulse-rouge.vercel.app/",
+    title: "Paydeet",
+    des: "Paydeet is a web app that connects users to their bank accounts effortlessly. Register and securely store details for all your bank accounts in one place, even if you have multiple accounts. Generate a personalized link to share, allowing others to view all your available bank details with a single click. Paydeet simplifies the process of sharing financial information while ensuring security and convenience. It's the smarter, faster way to manage and share your bank details.",
+    img: "/paydeet.png",
+    iconLists: ["/next.svg", "/tail.svg"],
+    link: "https://www.paydeet.com/",
   },
   {
     id: 2,
-    title: "CaseCobra",
-    des: "CaseCobra is a cutting-edge Next.js application that empowers users to personalize their phone cases with any image of their choice. The platform offers a seamless customization experience and integrates Stripe for secure and efficient payment processing, ensuring a smooth and user-friendly ordering process.",
-    img: "/casecobra.png",
-    iconLists: ["/next.svg", "/tail.svg", "shop-pay.png", "gpay.png"],
-    link: "https://casecobra-sigma-hazel.vercel.app/",
-  },
-  {
-    id: 3,
-    title: "Barelyhuman",
-    des: "BarelyHuman is a sleek and modern e-commerce platform designed to provide fitness enthusiasts with a seamless shopping experience for high-quality gym outfits. Built with Liquid and hosted on Shopify, this project showcases the integration of robust e-commerce functionalities with an eye-catching, user-friendly interface",
-    img: "/barelyhuman.jpg",
+    title: "Burga",
+    des: "BURGA is a fashion-forward brand specializing in stylish and protective accessories for everyday essentials. Their product range includes designer phone cases, ring holders, earbuds cases, magnetic power banks, tablet cases, drinkware, laptop protection, watch bands, notebooks, planners, and eyewear. Founded in 2015 by two best friends in Lithuania, BURGA combines functionality with eye-catching designs to cater to fashion-conscious individuals worldwide",
+    img: "/burga.png",
     iconLists: ["/liquid.png", "/tail.svg", "shop-pay.png", "gpay.png"],
-    link: "https://www.barelyhuman.com/",
+    link: "https://burga.com/",
   },
 ];
 
